@@ -14,3 +14,5 @@ git clone -b main [https://github.com/seishiru98/kstu-phd.git](https://github.co
 
 
 git pull origin main --rebase
+
+token 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
